@@ -3,8 +3,6 @@ from folium.plugins import MarkerCluster
 import heapq
 from geopy.distance import geodesic
 
-#print("heapq module imported successfully!")
-
 # Locations (latitude and longitude)
 locations = {
     "AG - Agora": (19.053210013385815, -98.28128742657283),
